@@ -1,0 +1,16 @@
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.exe
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.deps.json
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.runtimeconfig.json
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.runtimeconfig.dev.json
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.dll
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\ref\QuiltProject.dll
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\bin\Debug\net5.0\QuiltProject.pdb
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.csproj.AssemblyReference.cache
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.AssemblyInfoInputs.cache
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.AssemblyInfo.cs
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.csproj.CoreCompileInputs.cache
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.dll
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\ref\QuiltProject.dll
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.pdb
+C:\Users\diluitel\Documents\SWE\QuiltProject\QuiltProject\obj\Debug\net5.0\QuiltProject.genruntimeconfig.cache
