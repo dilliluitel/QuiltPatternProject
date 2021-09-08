@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Didn't get it working instantiating the subclasses this way and added to the List.
+//will revisit and try to use it again if got chance to refactor it in future.
 namespace QuiltProject
 {
 	public class Utils

@@ -8,35 +8,27 @@ namespace QuiltProject
 {
     public class SquarePattern : QuiltPattern
     {
-       // private static string Name;
         private float length;
+        UserInputs ui = new UserInputs();
+
         public SquarePattern(string color) : base(color)
         {
-            Name = "Square Pattern";
-           // Color = color;
+            this.Name = "Square Pattern";
         }
-
-        UserInputs ui = new UserInputs();
-        
-        public override float getArea()
+        public override float GetArea()
         {
-            length = ui.sideLength();
+            length = ui.GetNumber("\nEnter length of your Square : ");
 
             return length * length;
         }
 
-        /*public QuiltPattern createSquarePattern()
+       /* public QuiltPattern CreateSquarePattern() 
         {
-            Console.WriteLine("You have selected Square pattern.");
-            var color = "Red";  //ask for user
-            length = 5;    //ask for user
+            Console.WriteLine("You have selected Square Pattern.");
+            var color = ui.GetString("");  //ask user input for color
+            length = ui.GetNumber("Enter length of Square : ");    //ask user input for square length
 
             return new QuiltPattern(color); 
-        }
-
-        public static implicit operator List<object>(SquarePattern v)
-        {
-            throw new NotImplementedException();
         }*/
     } 
 }
